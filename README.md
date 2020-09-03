@@ -15,7 +15,6 @@ Briefly, 30 volunteers aged 19-48 years were evaluated while performing six task
 
 The dataset includes the following files:
 
-- Coursera_DS3_Final.zip: The zipped file containing the original datasets and descriptive files  
 - CodeBook.md: Outlines the data, variables, and the manipulations performed to clean up the data and produce tidy datasets requested in the assignment  
 - run_analysis.R: Provides the code used to produce the two tidy datasets requested of the assignment  
 - Tidy_dataset_1.txt: Text file containing the tidy dataset detailing the values produced by run_analysis.R, before the dataset was split and averaged for each subject and each activity  
